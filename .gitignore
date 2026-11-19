@@ -1,0 +1,26 @@
+# Build & CMake outputs
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# External local SDKs & reverse engineering scratch
+external/
+scratch/
+*.ini.local
+*.log
